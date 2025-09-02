@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("complejidad de algoritmos\n");
-        Console.WriteLine("complejidad Big o(n^2)");
+        
         //Console.WriteLine("complejidad Big o(n)");
 
         //var numeros= new List<int>() {5,2,3,200,2000,10000,0,1 };
